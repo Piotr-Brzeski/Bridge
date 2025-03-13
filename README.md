@@ -8,14 +8,14 @@
 
 ## Openings
 
-| Opening        | Points  | Cards |
-|----------------|:-------:|-------|
-| 1♣             | 12 - 14 | Without 5 cards of the same suit. Next bid will show the strongest (longest) suit. |
-| 1♣             | 12 - 14 | 5+ ♣. Next bid also ♣. |
-| 1♦, 1♥, 1♠     | 12 - 14 | 5+ of the bided suit. |
-| 1**NT**        | 15 - 19 | Next bid will show the strongest (longest) suit. |
-| 2♣             | 20+     | Next bid will show the strongest (longest) suit. |
-| 2♦, 2♥, 2♠, 3♣ |  7 - 11 | 7+ cards of the bided suit. |
+| Opening        | Points | Cards |
+|----------------|:------:|-------|
+| 1♣             | 12-14  | Without 5 cards of the same suit. Next bid will show the strongest (longest) suit. |
+| 1♣             | 12-14  | 5+ ♣. Next bid also ♣. |
+| 1♦, 1♥, 1♠     | 12-14  | 5+ of the bided suit. |
+| 1**NT**        | 15-19  | Next bid will show the strongest (longest) suit. |
+| 2♣             | 20+    | Next bid will show the strongest (longest) suit. |
+| 2♦, 2♥, 2♠, 3♣ |  7-11  | 7+ cards of the bided suit. |
 
 ## Answers
 Responding to an opening that shows a suit requires at least 7 points
