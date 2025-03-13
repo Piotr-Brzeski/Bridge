@@ -4,20 +4,42 @@
 - The pair is said to be vulnerable after winning first game.
 - Contract points are recorded below the line only for contracts worth 100 or more points.
 
-
 # Auction
 
 ## Openings
 
 | Opening        | Points  | Cards |
 |----------------|:-------:|-------|
-| 1♣             | 12 -14  | Without 5 cards of the same suit. Next bid will show the strongest (longest) suit.|
-| 1♣             | 12 -14  | 5+ ♣. Next bid also ♣. |
-| 1♦, 1♥, 1♠     | 12 -14  | 5+ of the bided suit. |
-| 1**NT**        | 15 - 19 | |
-| 2♣             | 20+     | |
-| 2♦, 2♥, 2♠, 3♣ | 7 - 11  | 7+ cards of the bided suit. |
+| 1♣             | 12 - 14 | Without 5 cards of the same suit. Next bid will show the strongest (longest) suit. |
+| 1♣             | 12 - 14 | 5+ ♣. Next bid also ♣. |
+| 1♦, 1♥, 1♠     | 12 - 14 | 5+ of the bided suit. |
+| 1**NT**        | 15 - 19 | Next bid will show the strongest (longest) suit. |
+| 2♣             | 20+     | Next bid will show the strongest (longest) suit. |
+| 2♦, 2♥, 2♠, 3♣ |  7 - 11 | 7+ cards of the bided suit. |
 
+## Answers
+Responding to an opening that shows a suit requires at least 7 points
+and should indicate the longest suit.
+
+A response to 1♣, 1**NT**, and 2♣ is mandatory if the opponents have not bid.
+
+With 0-3 points, a negative response should be given, using the lowest possible bid.
+
+With 4 or more points, the response should indicate the strongest suit.
+
+## Asking partner about the number of aces
+
+After deciding the trump suit (or NT) one can ask partner about the number of aces he holds
+by saying lowest possible number of clubs.
+
+Responses are:
+- ♦ = 0 or 4 aces,
+- ♥ = 1 ace,
+- ♠ = 2 aces,
+- **NT** = 3 aces.
+
+After determining the number of aces, one can ask partner about the number of kings he holds
+using the same approach.
 
 # Points
 
@@ -53,16 +75,16 @@ Penalty points are recorder above the line.
 ### Penalty points per undertrick
 
 #### Not vulnerable
-|                                    | Undobled | Doubled | Redoubled |
-|------------------------------------|:--------:|:-------:|:---------:|
-| 1<sup>st</sup> undertrick          | 50       | 100     | 200       |
-| 2<sup>nd</sup> and each subsequent | 50       | 200     | 400       |
+|                                    | Undoubled | Doubled | Redoubled |
+|------------------------------------|:---------:|:-------:|:---------:|
+| 1<sup>st</sup> undertrick          | 50        | 100     | 200       |
+| 2<sup>nd</sup> and each subsequent | 50        | 200     | 400       |
 
 #### Vulnerable
-|                                    | Undobled | Doubled | Redoubled |
-|------------------------------------|:--------:|:-------:|:---------:|
-| 1<sup>st</sup> undertrick          | 100      | 200     | 400       |
-| 2<sup>nd</sup> and each subsequent | 50       | 300     | 600       |
+|                                    | Undoubled | Doubled | Redoubled |
+|------------------------------------|:---------:|:-------:|:---------:|
+| 1<sup>st</sup> undertrick          | 100       | 200     | 400       |
+| 2<sup>nd</sup> and each subsequent | 100       | 300     | 600       |
 
 ## Bonus points
 
